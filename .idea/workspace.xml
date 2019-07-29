@@ -9,10 +9,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/app_pyqt5$console.coverage" NAME="console Coverage Results" MODIFIED="1564019013103" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app_pyqt5$mainwindow_control.coverage" NAME="mainwindow_control Coverage Results" MODIFIED="1560825743766" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/console$main.coverage" NAME="main Coverage Results" MODIFIED="1558604829831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app_pyqt5$mainwin_control.coverage" NAME="mainwin_control Coverage Results" MODIFIED="1564137016500" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Product$console.coverage" NAME="console Coverage Results" MODIFIED="1558087545097" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Product$main.coverage" NAME="main Coverage Results" MODIFIED="1558090402151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/console$console.coverage" NAME="console Coverage Results" MODIFIED="1559538367581" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/app_pyqt5$mainwin.coverage" NAME="mainwin Coverage Results" MODIFIED="1560837908287" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1049092693">
@@ -89,76 +93,152 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-418249361">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="18" />
+          <entry key="qrc" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="18" />
+          <entry key="XML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="1987" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="1987" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-752692671">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="6" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.11" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="40" />
+          <entry key="qrc" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="40" />
+          <entry key="XML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="py" value="8133" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="Python" value="8133" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/replace.py">
+        <entry file="file://$PROJECT_DIR$/mainwin_control.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="9396">
-              <caret line="348" column="17" lean-forward="true" selection-start-line="348" selection-start-column="17" selection-end-line="348" selection-end-column="17" />
+            <state relative-caret-position="-547">
+              <caret line="472" lean-forward="true" selection-start-line="472" selection-end-line="472" />
               <folding>
-                <element signature="e#20#29#0" expanded="true" />
-                <marker date="1559538739603" expanded="true" signature="95:106" ph="..." />
-                <marker date="1559538739603" expanded="true" signature="5049:5459" ph="..." />
-                <marker date="1559538739603" expanded="true" signature="5500:5771" ph="..." />
-                <marker date="1559538739603" expanded="true" signature="7985:8250" ph="..." />
-                <marker date="1559538739603" expanded="true" signature="11280:11282" ph="..." />
+                <element signature="e#44#58#0" expanded="true" />
+                <marker date="1564137014781" expanded="true" signature="539:599" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="2371:2897" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="2645:2654" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="3350:3359" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="4469:4478" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="5291:5300" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="6117:6169" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="7390:7568" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="7853:7887" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="7881:7887" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="9000:9043" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="10481:10626" ph="..." />
+                <marker date="1564137014781" expanded="true" signature="18829:18834" ph="..." />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/time.pyi">
+        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtCore/QThread.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2052">
-              <caret line="77" column="35" selection-start-line="77" selection-start-column="35" selection-end-line="77" selection-end-column="35" />
+            <state relative-caret-position="223">
+              <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1609528886/time.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/encodings/latin_1.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2862">
-              <caret line="106" column="4" selection-start-line="106" selection-start-column="4" selection-end-line="106" selection-end-column="4" />
+            <state relative-caret-position="212">
+              <caret line="25" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1609528886/sys.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/encodings/__init__.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="13743">
-              <caret line="509" selection-start-line="509" selection-end-line="509" />
+            <state relative-caret-position="247">
+              <caret line="74" selection-start-line="74" selection-end-line="74" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/types.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4806">
-              <caret line="182" selection-start-line="182" selection-end-line="182" />
+            <state relative-caret-position="374">
+              <caret line="170" selection-start-line="170" selection-end-line="170" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/genericpath.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/enum.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3105">
-              <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
+            <state relative-caret-position="27">
+              <caret line="630" selection-start-line="630" selection-end-line="630" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tokenize.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="11907">
-              <caret line="449" column="22" selection-start-line="449" selection-start-column="22" selection-end-line="449" selection-end-column="22" />
+            <state relative-caret-position="220">
+              <caret line="267" selection-start-line="267" selection-end-line="267" />
             </state>
           </provider>
         </entry>
@@ -166,31 +246,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17901">
-              <caret line="718" column="20" selection-start-line="718" selection-start-column="20" selection-end-line="718" selection-end-column="20" />
-              <folding>
-                <element signature="e#23405#25063#0" />
-                <element signature="e#35141#35742#0" />
-                <element signature="e#37419#37755#0" />
-              </folding>
+            <state relative-caret-position="204">
+              <caret line="335" selection-start-line="335" selection-end-line="335" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1609528886/nt.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="10260">
-              <caret line="380" column="4" selection-start-line="380" selection-start-column="4" selection-end-line="380" selection-end-column="4" />
+            <state relative-caret-position="328">
+              <caret line="205" selection-start-line="205" selection-end-line="205" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tkinter/__init__.py">
+        <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/genericpath.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="69768">
-              <caret line="2587" column="4" selection-start-line="2587" selection-start-column="4" selection-end-line="2587" selection-end-column="4" />
+            <state relative-caret-position="150">
+              <caret line="121" column="37" lean-forward="true" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
             </state>
           </provider>
         </entry>
@@ -212,14 +287,48 @@
       <find>replaceNameFunc</find>
       <find>rename</find>
       <find>deleteFileFunc</find>
+      <find>setCentralWidget</find>
+      <find>Ui_MainWindow</find>
+      <find>textFormat</find>
+      <find>get</find>
+      <find>setStatusBar</find>
+      <find>open</find>
+      <find>FileOrFolder</find>
+      <find>choosefilepath</find>
+      <find>tokenize</find>
+      <find>text</find>
+      <find>fileThreadFinish</find>
+      <find>print</find>
+      <find>printPathList</find>
+      <find>maxsplit</find>
+      <find>getFileList(rootDirectory)</find>
+      <find>findSpecifyString</find>
+      <find>getFileList()</find>
+      <find>fileformat</find>
+      <find>fileThreadStart</find>
+      <find>setBasePara</find>
+      <find>matchCase</find>
+      <find>compareString</find>
     </findStrings>
+    <replaceStrings>
+      <replace>getFileList()</replace>
+      <replace>self.getFileList()</replace>
+    </replaceStrings>
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/main.py" />
         <option value="$PROJECT_DIR$/console.py" />
+        <option value="$PROJECT_DIR$/mainWindow.py" />
+        <option value="$PROJECT_DIR$/mainresource.qrc" />
+        <option value="$PROJECT_DIR$/mainwindow.py" />
+        <option value="$PROJECT_DIR$/mainwindow-control.py" />
+        <option value="$PROJECT_DIR$/mainwindow_control.py" />
         <option value="$PROJECT_DIR$/replace.py" />
+        <option value="$PROJECT_DIR$/mainwin.py" />
+        <option value="$PROJECT_DIR$/fileOpera.py" />
+        <option value="$PROJECT_DIR$/mainwin_control.py" />
       </list>
     </option>
   </component>
@@ -230,23 +339,37 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1874" />
-    <option name="height" value="1096" />
+    <option name="x" value="-26" />
+    <option name="y" value="348" />
+    <option name="width" value="1616" />
+    <option name="height" value="916" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="app-pyqt5" type="b2602c69:ProjectViewProjectNode" />
+              <item name="app-pyqt5" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://D:/个人开发/Svn-Repository/CodeModify/trunk/Product/app-pyqt5/mainwindow.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="D:/GitHub/pytest" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fileOpera.py" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -260,21 +383,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.mainwin_control">
     <configuration name="console" type="PythonConfigurationType" factoryName="Python">
-      <module name="CodeModify" />
+      <module name="app-pyqt5" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
       <envs>
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
-      <option name="SDK_HOME" value="F:\Python\workspace\CodeModify\trunk\Product\console\venv\Scripts\python.exe" />
+      <option name="SDK_HOME" value="C:\Users\AMOBBS\AppData\Local\Programs\Python\Python37\python.exe" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/replace.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fileOpera.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -283,6 +406,37 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="mainwin_control" type="PythonConfigurationType" factoryName="Python">
+      <module name="CodeModify" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\AMOBBS\AppData\Local\Programs\Python\Python37\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mainwin_control.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.console" />
+      <item itemvalue="Python.mainwin_control" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.mainwin_control" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -300,27 +454,28 @@
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1874" height="1096" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.11907387" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.21940464" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49718308" visible="true" weight="0.112458654" />
+      <window_info id="Structure" order="1" sideWeight="0.5028169" side_tool="true" weight="0.112458654" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49944875" weight="0.25239617" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3024494" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49889746" weight="0.15212765" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.24468085" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5005513" side_tool="true" weight="0.25239617" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="11" visible="true" weight="0.3290735" />
-      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3109691" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5011025" side_tool="true" weight="0.20340788" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.25106382" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3106383" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Coverage" order="5" side_tool="true" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,15 +497,24 @@
         </breakpoint>
       </default-breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="referStr" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>referStr</expression-string>
+        <language-id>Python</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/main.py" />
     <entry file="file://$PROJECT_DIR$/console.py" />
-    <entry file="file://D:/GitHub/pytest/setup.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-434" />
-      </provider>
-    </entry>
+    <entry file="file://D:/GitHub/pytest/setup.py" />
     <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/typing.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="40905">
@@ -362,21 +526,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="142560">
           <caret line="5280" column="25" selection-start-line="5280" selection-start-column="25" selection-end-line="5280" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/replace.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="9396">
-          <caret line="348" column="17" lean-forward="true" selection-start-line="348" selection-start-column="17" selection-end-line="348" selection-end-column="17" />
-          <folding>
-            <element signature="e#20#29#0" expanded="true" />
-            <marker date="1559538739603" expanded="true" signature="95:106" ph="..." />
-            <marker date="1559538739603" expanded="true" signature="5049:5459" ph="..." />
-            <marker date="1559538739603" expanded="true" signature="5500:5771" ph="..." />
-            <marker date="1559538739603" expanded="true" signature="7985:8250" ph="..." />
-            <marker date="1559538739603" expanded="true" signature="11280:11282" ph="..." />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -401,39 +550,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+    <entry file="file://$PROJECT_DIR$/resource.qrc" />
+    <entry file="file://$PROJECT_DIR$/resource.py" />
+    <entry file="file://$PROJECT_DIR$/mainresource.py" />
+    <entry file="file://$PROJECT_DIR$/mainresource.qrc" />
+    <entry file="file://$PROJECT_DIR$/mainrcc_rc.py" />
+    <entry file="file://$PROJECT_DIR$/mainrcc_rc.qrc" />
+    <entry file="file://$PROJECT_DIR$/mainwindow-control.py" />
+    <entry file="file://$PROJECT_DIR$/mainwindow.py" />
+    <entry file="file://$PROJECT_DIR$/mainwindow_control.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QMainWindow.py" />
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/site-packages/PyQt5/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4806">
-          <caret line="182" selection-start-line="182" selection-end-line="182" />
+        <state relative-caret-position="-238" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QApplication.py" />
+    <entry file="file://$PROJECT_DIR$/../app-tkinter/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="8" column="31" selection-start-line="8" selection-start-column="31" selection-end-line="8" selection-end-column="31" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/genericpath.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3105">
-          <caret line="116" column="4" selection-start-line="116" selection-start-column="4" selection-end-line="116" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tokenize.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="11907">
-          <caret line="449" column="22" selection-start-line="449" selection-start-column="22" selection-end-line="449" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17901">
-          <caret line="718" column="20" selection-start-line="718" selection-start-column="20" selection-end-line="718" selection-end-column="20" />
-          <folding>
-            <element signature="e#23405#25063#0" />
-            <element signature="e#35141#35742#0" />
-            <element signature="e#37419#37755#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/__init__.py" />
     <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/1609528886/nt.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="10260">
@@ -445,6 +585,223 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69768">
           <caret line="2587" column="4" selection-start-line="2587" selection-start-column="4" selection-end-line="2587" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/replace.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QFileDialog.py" />
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QLineEdit.py" />
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/tokenize.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19656">
+          <caret line="736" selection-start-line="736" selection-end-line="736" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/pydevd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28809">
+          <caret line="1067" selection-start-line="1067" selection-end-line="1067" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/test/libregrtest/setup.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainrcc.qrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="2" column="24" selection-start-line="2" selection-start-column="10" selection-end-line="2" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QWidget.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="12115">
+          <caret line="695" column="8" selection-start-line="695" selection-start-column="8" selection-end-line="695" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QAbstractButton.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6291">
+          <caret line="238" column="8" selection-start-line="238" selection-start-column="8" selection-end-line="238" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QCheckBox.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="25" column="8" selection-start-line="25" selection-start-column="8" selection-end-line="25" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtCore/QObject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="118" column="8" selection-start-line="118" selection-start-column="8" selection-end-line="118" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtWidgets/QTextEdit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="564" column="8" selection-start-line="564" selection-start-column="8" selection-end-line="564" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/nt.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="211" column="4" selection-start-line="211" selection-start-column="4" selection-end-line="211" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="148" column="74" lean-forward="true" selection-start-line="148" selection-start-column="74" selection-end-line="148" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="5066" column="8" selection-start-line="5066" selection-start-column="8" selection-end-line="5066" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainrcc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fileOpera.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="277" column="16" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
+          <folding>
+            <element signature="e#20#29#0" expanded="true" />
+            <element signature="e#783#1392#0" />
+            <element signature="e#1461#1978#0" />
+            <element signature="e#2014#3140#0" />
+            <element signature="e#3201#3801#0" />
+            <element signature="e#3854#4521#0" />
+            <element signature="e#4567#5065#0" />
+            <element signature="e#5125#5528#0" />
+            <element signature="e#5576#5840#0" />
+            <element signature="e#5878#6131#0" />
+            <element signature="e#6186#6465#0" />
+            <element signature="e#6514#6786#0" />
+            <element signature="e#6826#7089#0" />
+            <element signature="e#7126#7233#0" />
+            <element signature="e#7265#7473#0" />
+            <element signature="e#7504#7700#0" />
+            <element signature="e#7753#8027#0" />
+            <element signature="e#8061#8319#0" />
+            <element signature="e#8223#11206#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/genericpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="121" column="37" lean-forward="true" selection-start-line="121" selection-start-column="37" selection-end-line="121" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/enum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="630" selection-start-line="630" selection-end-line="630" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="335" selection-start-line="335" selection-end-line="335" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="328">
+          <caret line="205" selection-start-line="205" selection-end-line="205" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/types.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="170" selection-start-line="170" selection-end-line="170" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/encodings/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="74" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/524921524/PyQt5/QtCore/QThread.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="153" column="8" selection-start-line="153" selection-start-column="8" selection-end-line="153" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/encodings/latin_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python37/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="267" selection-start-line="267" selection-end-line="267" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mainwin_control.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-547">
+          <caret line="472" lean-forward="true" selection-start-line="472" selection-end-line="472" />
+          <folding>
+            <element signature="e#44#58#0" expanded="true" />
+            <marker date="1564137014781" expanded="true" signature="539:599" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="2371:2897" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="2645:2654" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="3350:3359" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="4469:4478" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="5291:5300" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="6117:6169" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="7390:7568" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="7853:7887" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="7881:7887" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="9000:9043" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="10481:10626" ph="..." />
+            <marker date="1564137014781" expanded="true" signature="18829:18834" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
